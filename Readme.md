@@ -8,19 +8,16 @@ Week 1: Jan 1 2021 to Jan 8 2021:
 
 Book being followed: http://users.ece.utexas.edu/~ethomaz/courses/dm/papers/data-preprocessing-book.pdf
 
-Day 1: Data Preparation - Data Cleaning, Data Normalization and Data Transformation (Chapter 3)
+Day 1: Data Integration - Chi square and Correlation coefficient and covariance (Chapter 3)
 
-Day 2: Dealing with Missing Values (Chapter 4)
+Day 2: Data Normalization (Min-max, Z Square and Decimal Scaling) and Data Transformation (Chapter 3)
 
-Day 3: Dealing with Noisy Data (Chapter 5)
+Day 3: Dealing with Missing Values - Simple Approaches (Chapter 4)
 
-Day 4: Data Reduction (Chapter 6)
+Day 4: Dealing with Missing Values - Maximum Likelihood Imputation methods (Chapter 4)
 
-Day 5: Feature Selection (Chapter 7)
+Day 5: Dealing with Missing Values - Machine Learning Based Imputation methods (Chapter 4)
 
-Day 6: Instance Selection (Chapter 8)
+Day 6: Dealing with Noisy Data - Noise filtering at Data Level(Chapter 5)
 
-Day 7: Data Discretization (Chapter 9)
-
-
-
+Day 7: Data Reduction - Principal Component Analysis (Chapter 6)
