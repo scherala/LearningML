@@ -10,9 +10,9 @@ Book being followed: http://users.ece.utexas.edu/~ethomaz/courses/dm/papers/data
 
 Day 1: Data Integration - Chi square and Correlation coefficient and covariance (Chapter 3)
 
-Day 2: Data Normalization (Min-max, Z Square and Decimal Scaling) and Data Transformation (Chapter 3)
+Day 2: Data Normalization (Min-max, Z Square and Decimal Scaling) (Chapter 3)
 
-Day 3: Dealing with Missing Values - Simple Approaches (Chapter 4)
+Day 3: Data Transformation and Dealing with Missing Values - Simple Approaches (Chapter 3 and 4)
 
 Day 4: Dealing with Missing Values - Maximum Likelihood Imputation methods (Chapter 4)
 
